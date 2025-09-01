@@ -16,6 +16,7 @@ io.github.natanimn.telebof.states
 io.github.natanimn.telebof.types.bot
 io.github.natanimn.telebof.types.business
 io.github.natanimn.telebof.types.chat_and_user
+io.github.natanimn.telebof.types.checklist
 io.github.natanimn.telebof.types.forum
 io.github.natanimn.telebof.types.gift_and_giveaway
 io.github.natanimn.telebof.types.inline

@@ -1,4 +1,8 @@
 io.github.natanimn.telebof
+io.github.natanimn.telebof.annotations
+io.github.natanimn.telebof.annotations.container
+io.github.natanimn.telebof.annotations.meta
+io.github.natanimn.telebof.annotations.type
 io.github.natanimn.telebof.enums
 io.github.natanimn.telebof.exceptions
 io.github.natanimn.telebof.filters
@@ -13,6 +17,7 @@ io.github.natanimn.telebof.requests.send
 io.github.natanimn.telebof.requests.service
 io.github.natanimn.telebof.requests.set
 io.github.natanimn.telebof.states
+io.github.natanimn.telebof.types
 io.github.natanimn.telebof.types.bot
 io.github.natanimn.telebof.types.business
 io.github.natanimn.telebof.types.chat_and_user
@@ -26,5 +31,6 @@ io.github.natanimn.telebof.types.media_and_service
 io.github.natanimn.telebof.types.passport
 io.github.natanimn.telebof.types.payments
 io.github.natanimn.telebof.types.story
+io.github.natanimn.telebof.types.suggested
 io.github.natanimn.telebof.types.updates
 io.github.natanimn.telebof.types.web

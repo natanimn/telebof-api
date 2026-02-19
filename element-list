@@ -6,6 +6,7 @@ io.github.natanimn.telebof.annotations.type
 io.github.natanimn.telebof.enums
 io.github.natanimn.telebof.exceptions
 io.github.natanimn.telebof.filters
+io.github.natanimn.telebof.log
 io.github.natanimn.telebof.requests
 io.github.natanimn.telebof.requests.answer
 io.github.natanimn.telebof.requests.create
